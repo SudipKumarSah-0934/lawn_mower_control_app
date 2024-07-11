@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "lawn_mower_control_app",
+            "cwd": "lawn_mower_control_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lawn_mower_control_app (profile mode)",
+            "cwd": "lawn_mower_control_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lawn_mower_control_app (release mode)",
+            "cwd": "lawn_mower_control_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter (lib\\road_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "lawn_mower_control_app",
+            "program": "lib\\road_screen.dart"
+        }
+    ]
+}
